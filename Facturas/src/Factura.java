@@ -1,4 +1,3 @@
-
 public class Factura implements IFactura {
 	public int num;
 	public float base;
