@@ -2,7 +2,7 @@ public class Factura implements IFactura {
 	private int num;
 	private float base;
 	private float tipoIva;
-	private Estados estado;
+	protected Estados estado;
 	
 	public static void main(String[] args) {
 
